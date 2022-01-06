@@ -1,0 +1,13 @@
+Show do Milhão is based on a Brazilian TV game show by the same name, hosted by Silvio Santos, a famous Brazilian TV presenter, owner of SBT, one of the greatest TV channels in Brazil.
+
+Show do Milhão (One Million Show, in English) is basically a quiz game, with 16 questions divided in three blocks of five questions each, plus the one million question. Each question has 4 alternative answers, of which just one is right. The player wins a money prize for each right question. If he decides to stop at a certain question, he wins half of the questions' prize. If he guesses wrong, wins a quarter of the prize. But the rules are different for the last question: if he guesses wrong, he looses all the money he has won during the game. If he stops, takes half the prize as usual.
+
+The player can also skip questions up to three times. If he skips a question, other one with the same prize is displayed. He can also ask for help, which comes in three different manners: cards, players and guests.
+
+If the player chooses the cards help, he must pick one of three shuffled cards (K, A, 2 and 3), each one corresponding to the amount of wrong choices that will be removed from the screen (the K meaning no removal at all).
+
+If the player chooses the other (in this case, simulated) players help, a screen showing the percentage of players guessing each answer will appear (in the real game show, many players participated each night, taking their turns at the central place).
+
+If the player chooses the guests help, three guests will take their guesses on the answer, and you can go by their guesses or not (on the real game show, those guests were college students).
+
+The game features the digitized voice of Silvio Santos, as well as the show's main theme. All the text is in Portuguese.

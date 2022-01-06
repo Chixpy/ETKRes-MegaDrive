@@ -1,0 +1,12 @@
+This is a compilation containing the following 10 Megadrive games:
+
+1. California Games
+2. Columns
+3. Flicky
+4. Golden Axe
+5. Revenge of Shinobi
+6. Sega Soccer
+7. Super Hang-On
+8. Sonic the Hedgehog
+9. Streets of Rage
+10. Super Monaco GP

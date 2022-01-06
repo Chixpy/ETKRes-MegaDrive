@@ -1,0 +1,9 @@
+Yu Yu Hakusho: Makyo Toitsusen is a versus fighting game (in the vein of Street Fighter II) based on the Yu Yu Hakusho anime. Eleven characters are available: Sensui, Jin, Itsuki, Genkai, Kuwabara, Yusuke, Kurama, Hiei, Chu and the Toguro Brothers.
+
+Up to four players can choose among three game modes: Elimination, Training and Competition. The elimination mode is a traditional arcade style game, in which a single player fights against the computer opponents one by one, in one round matches.
+
+Training mode allows the players to train in three modes: Royal Battle (one round free for all match, with up to 4 fighters, controlled by the players or the computer), Tag Match (doubles match, controlled either by the players or the computer) and a free Training mode, with no time limit. Players can also select the scenario to train.
+
+The Competition mode can be played either in individual or doubles mode. Eight fighters compete in an elimination tournament. The players have the option to watch the matches between fighters controlled by the computer.
+
+In regards to gameplay, each character has one punch and kick. They can also jump, duck, run forward, backwards and move up or down in the ring (as in Samurai Shodown). They also have special maneuvers, released by certain combinations of movements and buttons.

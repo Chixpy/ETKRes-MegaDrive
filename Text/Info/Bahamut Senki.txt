@@ -1,0 +1,3 @@
+The world of Bahamut is divided into eight powerful countries. Four of them are ruled by humans or human-like creatures, while the other four are under control of evil demonic forces. Those countries wage war with each other, each trying to dominate the others. Your task is to choose one of those countries and to make it the most powerful one in Bahamut, conquering the others and defeating their lords. 
+
+This is a turn-based strategy war game. In the beginning of each turn, you can make your leader perform several actions, such as recruit soldiers, declare war, or first establish yourself in the region by diplomatic talks with other leaders. In battles, you control several units of soldiers or magical creatures you can summon to help you out.
