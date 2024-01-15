@@ -2,41 +2,4 @@ Kyukai Dochuki is an arcade-style baseball game featuring small SD-style players
 
 Playing much like Namco's own World Stadium franchise, each player has direct control over their players in batting, pitching, and fielding. The game offers 38 different fictional teams in six leagues, as well as six different stadiums to play in, ranging from regular stadiums, to stadiums in desert and arctic conditions, and even a stadium on top of a boat! 
 
-The game also offers a single-player 
-World
-Tour"
-mode
-as
-well
-as
-exhibition
-modes
-for
-one
-or
-two
-players.
-Roster
-changes
-can
-also
-be
-made
-much
-like
-R.B.I.
-Baseball
-and
-games
-can
-be
-set
-to
-play
-anywhere
-from
-one
-to
-twenty-one
-innings
-long."
+The game also offers a single-player World Tour mode as well as exhibition modes for one or two players. Roster changes can also be made much like R.B.I. Baseball and games can be set to play anywhere from one to twenty-one innings long.
